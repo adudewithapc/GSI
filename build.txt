@@ -1,0 +1,11 @@
+author = That Martin Guy
+
+version = 0.1
+
+displayName = Guiding Skill Increased
+
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
